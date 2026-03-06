@@ -14,7 +14,7 @@
 
 ### 🤖 Robotics & Perception
 - LiDAR (RPLIDAR A1)
-- ROS 2 (Basics)
+- ROS 2 
 - Gazebo Simulation
 - Sensor data processing
 
