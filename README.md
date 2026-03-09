@@ -11,6 +11,7 @@
 ###  Programming
 - Python
 - C
+- C++
 
 ###  Robotics & Perception
 - LiDAR (RPLIDAR A1)
