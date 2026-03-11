@@ -1,73 +1,74 @@
-Skills
+Hi, I'm Bachu James
 
-Programming: Python, C, C++
-Robotics: ROS 2, LiDAR (RPLIDAR A1), Gazebo
-Embedded: Arduino, STM32, Raspberry Pi, PIC
-Tools: Linux (Ubuntu), Git, Matplotlib, UART Communication
+Robotics Engineering Graduate
+Embedded Systems | Robotics | LiDAR | Python
+Passionate about building real-world robotic systems using hardware + software
+Technical Skills
+Programming
 
-Featured Project
+    Python
+    C
+    C++
 
-RPLIDAR A1M8 – Real-Time Visualization
+Robotics & Perception
 
-Real-time LiDAR plotting using Python and Matplotlib
+    LiDAR (RPLIDAR A1)
+    ROS 2
+    Gazebo Simulation
+    Sensor data processing
 
-Runs on Raspberry Pi (Ubuntu)
+Embedded Systems
 
-Implemented without ROS
+    Arduino
+    STM32
+    Raspberry Pi
+    PIC Microcontrollers
 
-Demo: https://youtu.be/NPnB0obLOec
+Tools & OS
 
-Repository: https://github.com/
-<your-username>/rplidar-a1m8-matplotlib
+    Linux (Ubuntu)
+    Git & GitHub
+    Matplotlib
+    Serial Communication (UART, USB)
 
-Currently Learning
+Featured Projects
+🔹 RPLIDAR A1M8 – Real-Time Polar Visualization
 
-Advanced Python for Robotics
+    Real-time LiDAR scan visualization using Python + Matplotlib
 
-ROS 2 and Autonomous Navigation
+    Runs on Raspberry Pi with Ubuntu
 
-SLAM Fundamentals
+    Implemented without ROS
 
-Linux Internals
+    Handles raw angle and distance data with clean shutdown
 
-Goals
+    Demo Video: https://youtu.be/NPnB0obLOec
+    Repository: https://github.com//rplidar-a1m8-matplotlib
 
-Build LiDAR-based autonomous robots
+Arduino Automation Projects
 
-Work on obstacle detection and clustering
+    Automatic street light using LDR
+    Height measuring system using ultrasonic sensor
+    Bluetooth-controlled devices (HC-05)
+    Servo-based gate automation
 
-Contribute to open-source robotics
----
+What I’m Currently Learning
 
-###  Arduino Automation Projects
-- Automatic street light using LDR
-- Height measuring system using ultrasonic sensor
-- Bluetooth-controlled devices (HC-05)
-- Servo-based gate automation
+    Advanced Python for robotics
+    ROS 2 (Nodes, Topics, LiDAR integration)
+    Autonomous navigation basics
+    Linux internals for robotics systems
 
----
+Future Goals
 
-##  What I’m Currently Learning
-- Advanced Python for robotics
-- ROS 2 (Nodes, Topics, LiDAR integration)
-- Autonomous navigation basics
-- Linux internals for robotics systems
+    Build a LiDAR-based autonomous robot
+    Implement obstacle detection & clustering
+    Work on SLAM fundamentals
+    Contribute to open-source robotics projects
 
----
+Connect With Me
 
-##  Future Goals
-- Build a LiDAR-based autonomous robot
-- Implement obstacle detection & clustering
-- Work on SLAM fundamentals
-- Contribute to open-source robotics projects
-
----
-
-##  Connect With Me
-- GitHub: [https://github.com/<your-username>](https://github.com/bachu-james)
-- LinkedIn: [https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/bachujames/)
-- Email: bichujames29@gmail.com
-
----
-
+    GitHub: https://github.com/
+    LinkedIn: https://linkedin.com/in/
+    Email: bichujames29@gmail.com
 
