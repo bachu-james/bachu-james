@@ -1,49 +1,42 @@
-# Hi, I'm Bachu James
+Skills
 
- Robotics Engineering Graduate  
- Embedded Systems | Robotics | LiDAR | Python  
- Passionate about building real-world robotic systems using hardware + software
+Programming: Python, C, C++
+Robotics: ROS 2, LiDAR (RPLIDAR A1), Gazebo
+Embedded: Arduino, STM32, Raspberry Pi, PIC
+Tools: Linux (Ubuntu), Git, Matplotlib, UART Communication
 
----
+Featured Project
 
-##  Technical Skills
+RPLIDAR A1M8 – Real-Time Visualization
 
-###  Programming
-- Python
-- C
-- C++
+Real-time LiDAR plotting using Python and Matplotlib
 
-###  Robotics & Perception
-- LiDAR (RPLIDAR A1)
-- ROS 2 
-- Gazebo Simulation
-- Sensor data processing
+Runs on Raspberry Pi (Ubuntu)
 
-###  Embedded Systems
-- Arduino
-- STM32
-- Raspberry Pi
-- PIC Microcontrollers
+Implemented without ROS
 
-###  Tools & OS
-- Linux (Ubuntu)
-- Git & GitHub
-- Matplotlib
-- Serial Communication (UART, USB)
+Demo: https://youtu.be/NPnB0obLOec
 
----
+Repository: https://github.com/
+<your-username>/rplidar-a1m8-matplotlib
 
-##  Featured Projects
+Currently Learning
 
-### 🔹 RPLIDAR A1M8 – Real-Time Polar Visualization
-- Real-time LiDAR scan visualization using **Python + Matplotlib**
-- Runs on **Raspberry Pi with Ubuntu**
-- Implemented **without ROS**
-- Handles raw angle and distance data with clean shutdown
+Advanced Python for Robotics
 
-  Demo Video: https://youtu.be/NPnB0obLOec  
-  Repository: https://github.com/<your-username>/rplidar-a1m8-matplotlib
+ROS 2 and Autonomous Navigation
 
+SLAM Fundamentals
+
+Linux Internals
+
+Goals
+
+Build LiDAR-based autonomous robots
+
+Work on obstacle detection and clustering
+
+Contribute to open-source robotics
 ---
 
 ###  Arduino Automation Projects
