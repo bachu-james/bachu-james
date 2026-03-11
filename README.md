@@ -12,7 +12,7 @@ Passionate about building real-world robotic systems using hardware + software
 - Python
 - C
 
-### 🤖 Robotics & Perception
+### Robotics & Perception
 - LiDAR (RPLIDAR A1)
 - ROS 2 (Basics)
 - Gazebo Simulation
