@@ -44,22 +44,6 @@ Demo Video: https://youtu.be/NPnB0obLOec
 
 ---
 
-### 🔹 Arduino Automation Projects
-- Automatic street light using LDR
-- Height measuring system using ultrasonic sensor
-- Bluetooth-controlled devices (HC-05)
-- Servo-based gate automation
-
----
-
-## What I’m Currently Learning
-- Advanced Python for robotics
-- ROS 2 (Nodes, Topics, LiDAR integration)
-- Autonomous navigation basics
-- Linux internals for robotics systems
-
----
-
 ## Future Goals
 - Build a LiDAR-based autonomous robot
 - Implement obstacle detection & clustering
