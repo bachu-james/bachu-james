@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Robotics Engineer with 2 years of hands-on experience across the full stack — from bare-metal embedded firmware to high-level ROS 2 autonomy pipelines. My work spans autonomous navigation, manipulator motion planning, computer vision, and simulation.
+I'm a Robotics Engineer with 3 years of hands-on experience across the full stack — from bare-metal embedded firmware to high-level ROS 2 autonomy pipelines. My work spans autonomous navigation, manipulator motion planning, computer vision, and simulation.
 
 Previously at **Evolve Robotics** (Ernakulam), where I mentored students in ROS 2, Arduino, and embedded systems while developing real-world robotic systems. I'm passionate about building robots that actually work outside the lab.
 
