@@ -4,7 +4,7 @@
 
 **Robotics Engineer · ROS 2 · Motion Planning · Embedded Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bachu-james)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bachujames/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bachu-james)
 [![Location](https://img.shields.io/badge/Kerala,_India-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)]()
 
